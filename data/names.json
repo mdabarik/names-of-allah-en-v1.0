@@ -1,0 +1,597 @@
+[
+	{
+		"id": "01",
+		"arn": "الرَّحْمَنُ",
+		"ensp": "AR-RAHMAAN",
+		"enm": "The Most Merciful"
+	},
+	{
+		"id": "02",
+		"arn": "الرَّحِيمُ ",
+		"ensp": "AR-RAHEEM",
+		"enm": "The Bestower of Mercy"
+	},
+	{
+		"id": "03",
+		"arn": "الْمَلِكُ",
+		"ensp": "AL-MALIK",
+		"enm": "The Absolute Ruler"
+	},
+	{
+		"id": "04",
+		"arn": "الْقُدُّوسُ",
+		"ensp": "AL-QUDDUS",
+		"enm": "The Absolutely Pure"
+	},
+	{
+		"id": "05",
+		"arn": "السَّلاَمُ ",
+		"ensp": "AS-SALAM",
+		"enm": "The Source of Peace"
+	},
+	{
+		"id": "06",
+		"arn": "الْمُؤْمِنُ ",
+		"ensp": "AL-MU’MIN",
+		"enm": "The Inspirer of Faith"
+	},
+	{
+		"id": "07",
+		"arn": "الْمُهَيْمِنُ",
+		"ensp": "AL-MUHAYMIN",
+		"enm": "The Guardian"
+	},
+	{
+		"id": "08",
+		"arn": "الْعَزِيزُ",
+		"ensp": "AL-AZEEZ",
+		"enm": "The Victorious"
+	},
+	{
+		"id": "09",
+		"arn": "الْجَبَّارُ ",
+		"ensp": "AL-JABBAR",
+		"enm": "The Restorer"
+	},
+	{
+		"id": "10",
+		"arn": "الْمُتَكَبِّرُ ",
+		"ensp": "AL-MUTAKABBIR",
+		"enm": "The Supreme"
+	},
+	{
+		"id": "11",
+		"arn": "الْخَالِقُ",
+		"ensp": "AL-KHAALIQ",
+		"enm": "The Creator"
+	},
+	{
+		"id": "12",
+		"arn": "الْبَارِئُ ",
+		"ensp": "AL-BAARI",
+		"enm": "The Originator"
+	},
+	{
+		"id": "13",
+		"arn": "الْمُصَوِّرُ",
+		"ensp": "AL-MUSAWWIR",
+		"enm": "The Fashioner"
+	},
+	{
+		"id": "14",
+		"arn": "الْغَفَّارُ ",
+		"ensp": "AL-GHAFFAR",
+		"enm": "The All- and Oft-Forgiving"
+	},
+	{
+		"id": "15",
+		"arn": "الْقَهَّارُ",
+		"ensp": "AL-QAHHAR",
+		"enm": "The Ever-Dominating"
+	},
+	{
+		"id": "16",
+		"arn": "الْوَهَّابُ ",
+		"ensp": "AL-WAHHAAB",
+		"enm": "The Giver of Gifts"
+	},
+	{
+		"id": "17",
+		"arn": "الرَّزَّاقُ",
+		"ensp": "AR-RAZZAAQ",
+		"enm": "The Provider"
+	},
+	{
+		"id": "18",
+		"arn": "الْفَتَّاحُ ",
+		"ensp": "AL-FATTAAH",
+		"enm": "The Judge"
+	},
+	{
+		"id": "19",
+		"arn": "اَلْعَلِيْمُ",
+		"ensp": "AL-ALEEM",
+		"enm": "The All-Knowing"
+	},
+	{
+		"id": "20",
+		"arn": "الْقَابِضُ",
+		"ensp": "AL-QAABID",
+		"enm": "The Withholder"
+	},
+	{
+		"id": "21",
+		"arn": "الْبَاسِطُ ",
+		"ensp": "AL-BAASIT",
+		"enm": "The Extender"
+	},
+	{
+		"id": "22",
+		"arn": " الْخَافِضُ ",
+		"ensp": "AL-KHAAFIDH",
+		"enm": "The Reducer"
+	},
+	{
+		"id": "23",
+		"arn": "الرَّافِعُ",
+		"ensp": "AR-RAAFI",
+		"enm": "The Exalter"
+	},
+	{
+		"id": "24",
+		"arn": " الْمُعِزُّ",
+		"ensp": "AL-MUIZZ",
+		"enm": "The Bestower"
+	},
+	{
+		"id": "25",
+		"arn": "المُذِلُّ",
+		"ensp": "AL-MUZIL",
+		"enm": "The Dishonourer"
+	},
+	{
+		"id": "26",
+		"arn": "السَّمِيعُ ",
+		"ensp": "AS-SAMEE",
+		"enm": "The All-Hearing"
+	},
+	{
+		"id": "27",
+		"arn": "الْبَصِيرُ ",
+		"ensp": "AL-BASEER",
+		"enm": "The All-Seeing"
+	},
+	{
+		"id": "28",
+		"arn": "الْحَكَمُ",
+		"ensp": "AL-HAKAM",
+		"enm": "The Giver of Justice"
+	},
+	{
+		"id": "29",
+		"arn": "الْعَدْلُ",
+		"ensp": "AL-ADL",
+		"enm": "The Utterly Just"
+	},
+	{
+		"id": "30",
+		"arn": "اللَّطِيفُ ",
+		"ensp": "AL-LATEEF",
+		"enm": "The Most Gentle"
+	},
+	{
+		"id": "31",
+		"arn": "الْخَبِيرُ ",
+		"ensp": "AL-KHABEER",
+		"enm": "The All-Aware"
+	},
+	{
+		"id": "32",
+		"arn": "الْحَلِيمُ ",
+		"ensp": "AL-HALEEM",
+		"enm": "The Most Forbearing"
+	},
+	{
+		"id": "33",
+		"arn": "الْعَظِيمُ ",
+		"ensp": "AL-ATHEEM",
+		"enm": "The Magnificent"
+	},
+	{
+		"id": "34",
+		"arn": "الْغَفُورُ",
+		"ensp": "AL-GHAFOOR",
+		"enm": "The Forgiving"
+	},
+	{
+		"id": "35",
+		"arn": "الشَّكُورُ ",
+		"ensp": "ASH-SHAKOOR",
+		"enm": "The Most Appreciative"
+	},
+	{
+		"id": "36",
+		"arn": "الْعَلِيُّ ",
+		"ensp": "AL-ALEE",
+		"enm": "The Most High"
+	},
+	{
+		"id": "37",
+		"arn": "الْكَبِيرُ ",
+		"ensp": "AL-KABEER",
+		"enm": "The Most Grand"
+	},
+	{
+		"id": "38",
+		"arn": "الْحَفِيظُ ",
+		"ensp": "AL-HAFEEDH",
+		"enm": "The Preserver"
+	},
+	{
+		"id": "39",
+		"arn": "المُقيِت ",
+		"ensp": "AL-MUQEET",
+		"enm": "The Sustainer"
+	},
+	{
+		"id": "40",
+		"arn": "الْحسِيبُ ",
+		"ensp": "AL-HASEEB",
+		"enm": "The Sufficient"
+	},
+	{
+		"id": "41",
+		"arn": "الْجَلِيلُ",
+		"ensp": "AL-JALEEL",
+		"enm": "The Majestic"
+	},
+	{
+		"id": "42",
+		"arn": "الْكَرِيمُ",
+		"ensp": "AL-KAREEM",
+		"enm": "The Most Generous"
+	},
+	{
+		"id": "43",
+		"arn": "الرَّقِيبُ",
+		"ensp": "AR-RAQEEB",
+		"enm": "The Watchful"
+	},
+	{
+		"id": "44",
+		"arn": "الْمُجِيبُ ",
+		"ensp": "AL-MUJEEB",
+		"enm": "The Responsive One"
+	},
+	{
+		"id": "45",
+		"arn": "الْوَاسِعُ ",
+		"ensp": "AL-WAASI",
+		"enm": "The Boundless"
+	},
+	{
+		"id": "46",
+		"arn": "الْحَكِيمُ",
+		"ensp": "AL-HAKEEM",
+		"enm": "The All-Wise"
+	},
+	{
+		"id": "47",
+		"arn": "الْوَدُودُ",
+		"ensp": "AL-WADOOD",
+		"enm": "The Most Loving"
+	},
+	{
+		"id": "48",
+		"arn": "الْمَجِيدُ ",
+		"ensp": "AL-MAJEED",
+		"enm": "The Glorious"
+	},
+	{
+		"id": "49",
+		"arn": "الْبَاعِثُ",
+		"ensp": "AL-BAITH",
+		"enm": "The Resurrector"
+	},
+	{
+		"id": "50",
+		"arn": "الشَّهِيدُ ",
+		"ensp": "ASH-SHAHEED",
+		"enm": "The All- and Ever Witnessing"
+	},
+	{
+		"id": "51",
+		"arn": "الْحَقُّ ",
+		"ensp": "AL-HAQQ",
+		"enm": "The Absolute Truth"
+	},
+	{
+		"id": "52",
+		"arn": "الْوَكِيلُ",
+		"ensp": "AL-WAKEEL",
+		"enm": "The Trustee"
+	},
+	{
+		"id": "53",
+		"arn": "الْقَوِيُّ ",
+		"ensp": "AL-QAWIYY",
+		"enm": "The All-Strong"
+	},
+	{
+		"id": "54",
+		"arn": "الْمَتِينُ",
+		"ensp": "AL-MATEEN",
+		"enm": "The Steadfast"
+	},
+	{
+		"id": "55",
+		"arn": "الْوَلِيُّ",
+		"ensp": "AL-WALIYY",
+		"enm": "The Protecting Associate"
+	},
+	{
+		"id": "56",
+		"arn": "الْحَمِيدُ ",
+		"ensp": "AL-HAMEED",
+		"enm": "The Praiseworthy"
+	},
+	{
+		"id": "57",
+		"arn": "الْمُحْصِي",
+		"ensp": "AL-MUHSEE",
+		"enm": "The Counter"
+	},
+	{
+		"id": "58",
+		"arn": "الْمُبْدِئُ ",
+		"ensp": "AL-MUBDI",
+		"enm": "The Initiator"
+	},
+	{
+		"id": "59",
+		"arn": "الْمُعِيدُ",
+		"ensp": "AL-MUID",
+		"enm": "The Reinstater"
+	},
+	{
+		"id": "60",
+		"arn": "الْمُحْيِي ",
+		"ensp": "AL-MUHYEE",
+		"enm": "The Giver of Life"
+	},
+	{
+		"id": "61",
+		"arn": "اَلْمُمِيتُ",
+		"ensp": "AL-MUMEET",
+		"enm": "The Bringer of Death"
+	},
+	{
+		"id": "62",
+		"arn": "الْحَيُّ",
+		"ensp": "AL-HAYY",
+		"enm": "The Ever-Living"
+	},
+	{
+		"id": "63",
+		"arn": "الْقَيُّومُ",
+		"ensp": "AL-QAYYOOM",
+		"enm": "The Sustainer"
+	},
+	{
+		"id": "64",
+		"arn": "الْوَاجِدُ",
+		"ensp": "AL-WAAJID",
+		"enm": "The Perceiver"
+	},
+	{
+		"id": "65",
+		"arn": "الْمَاجِدُ ",
+		"ensp": "AL-MAAJID",
+		"enm": "The Illustrious"
+	},
+	{
+		"id": "66",
+		"arn": "الْواحِدُ ",
+		"ensp": "AL-WAAHID",
+		"enm": "The One"
+	},
+	{
+		"id": "67",
+		"arn": "اَلاَحَدُ",
+		"ensp": "AL-AHAD",
+		"enm": "The Only One"
+	},
+	{
+		"id": "68",
+		"arn": "الصَّمَدُ",
+		"ensp": "AS-SAMAD",
+		"enm": "The Eternal"
+	},
+	{
+		"id": "69",
+		"arn": "الْقَادِرُ",
+		"ensp": "AL-QADEER",
+		"enm": "The Powerful"
+	},
+	{
+		"id": "70",
+		"arn": " الْمُقْتَدِرُ ",
+		"ensp": "AL-MUQTADIR",
+		"enm": "The Omnipotent"
+	},
+	{
+		"id": "71",
+		"arn": "الْمُقَدِّمُ",
+		"ensp": "AL-MUQADDIM",
+		"enm": "The Promoter"
+	},
+	{
+		"id": "72",
+		"arn": "الْمُؤَخِّرُ ",
+		"ensp": "AL-MUAKHKHIR",
+		"enm": "The Delayer"
+	},
+	{
+		"id": "73",
+		"arn": "الأوَّلُ ",
+		"ensp": "AL-AWWAL",
+		"enm": "The First"
+	},
+	{
+		"id": "74",
+		"arn": "الآخِرُ",
+		"ensp": "AL-AAKHIR",
+		"enm": "The Last"
+	},
+	{
+		"id": "75",
+		"arn": "الظَّاهِرُ ",
+		"ensp": "AZ-DHAAHIR",
+		"enm": "The Manifest"
+	},
+	{
+		"id": "76",
+		"arn": "الْبَاطِنُ",
+		"ensp": "AL-BAATIN",
+		"enm": "Knower of the Hidden"
+	},
+	{
+		"id": "77",
+		"arn": "الْوَالِي",
+		"ensp": "AL-WAALI",
+		"enm": "The Patron"
+	},
+	
+	{
+		"id": "78",
+		"arn": "الْمُتَعَالِي ",
+		"ensp": "AL-MUTA’ALI",
+		"enm": "The Self Exalted"
+	},
+	{
+		"id": "79",
+		"arn": "الْبَرُّ ",
+		"ensp": "AL-BARR",
+		"enm": "The Kind Benefactor"
+	},
+	{
+		"id": "80",
+		"arn": "التَّوَابُ",
+		"ensp": "AT-TAWWAB",
+		"enm": "The Ever-Pardoning"
+	},
+	{
+		"id": "81",
+		"arn": "الْمُنْتَقِمُ",
+		"ensp": "AL-MUNTAQIM",
+		"enm": "The Avenger"
+	},
+	{
+		"id": "82",
+		"arn": "العَفُوُّ ",
+		"ensp": "AL-AFUWW",
+		"enm": "The Pardoner"
+	},
+	{
+		"id": "83",
+		"arn": "الرَّؤُوفُ",
+		"ensp": "AR-RAOOF",
+		"enm": "The Most Kind"
+	},
+	{
+		"id": "84",
+		"arn": "مَالِكُ الْمُلْكِ ",
+		"ensp": "MAALIK-UL-MULK",
+		"enm": "Master of the Kingdom"
+	},
+	{
+		"id": "85",
+		"arn": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+		"ensp": "DHUL-JALAALI WAL-IKRAAM",
+		"enm": "Lord of Majesty and Generosity"
+	},
+	{
+		"id": "86",
+		"arn": "الْمُقْسِطُ",
+		"ensp": "AL-MUQSIT",
+		"enm": "The Equitable"
+	},
+	{
+		"id": "87",
+		"arn": "الْجَامِعُ ",
+		"ensp": "AL-JAAMI’",
+		"enm": "The Gatherer"
+	},
+	{
+		"id": "88",
+		"arn": "الْغَنِيُّ",
+		"ensp": "AL-GHANIYY",
+		"enm": "The Self-Sufficient"
+	},
+	{
+		"id": "89",
+		"arn": "الْمُغْنِي",
+		"ensp": "AL-MUGHNI",
+		"enm": "The Enricher"
+	},
+	{
+		"id": "90",
+		"arn": "اَلْمَانِعُ",
+		"ensp": "AL-MANI",
+		"enm": "The Withholder"
+	},
+	{
+		"id": "91",
+		"arn": "الضَّارَّ",
+		"ensp": "AD-DHARR",
+		"enm": "The Distresser"
+	},
+	{
+		"id": "92",
+		"arn": "النَّافِعُ ",
+		"ensp": "AN-NAFI’",
+		"enm": "The Propitious"
+	},
+	{
+		"id": "93",
+		"arn": "النُّورُ",
+		"ensp": "AN-NUR",
+		"enm": "The Light"
+	},
+	{
+		"id": "94",
+		"arn": "الْهَادِي",
+		"ensp": "AL-HAADI",
+		"enm": "The Guide"
+	},
+	{
+		"id": "95",
+		"arn": "الْبَدِيعُ",
+		"ensp": "AL-BADEE",
+		"enm": "The Incomparable Originator"
+	},
+	{
+		"id": "96",
+		"arn": "اَلْبَاقِي",
+		"ensp": "AL-BAAQI",
+		"enm": "The Everlasting"
+	},
+	{
+		"id": "97",
+		"arn": "الْوَارِثُ ",
+		"ensp": "AL-WAARITH",
+		"enm": "The Inheritor"
+	},
+	{
+		"id": "98",
+		"arn": "الرَّشِيدُ ",
+		"ensp": "AR-RASHEED",
+		"enm": "Infallible Teacher"
+	},
+	{
+		"id": "99",
+		"arn": "الصَّبُورُ ",
+		"ensp": "AS-SABOOR",
+		"enm": "The Forbearing"
+	}
+]
